@@ -6,7 +6,7 @@ public class MainRaja {
 
     public static void main(String[] args){
         int sumValue = doAdditionOfTwoNumber(1,2);
-        System.out.print(sumValue);
+        System.out.print(sumValue + "\n");
         System.out.print(doAddition());
     }
 
